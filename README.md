@@ -1,7 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=50&section=header&text=Hwang_Ji_Hyun&fontSize=30)
 
+---
 
+### Stack
+
+<div><span>
 <img src="https://img.shields.io/badge/Python-1E82FF?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-1E8CBE?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat-square&logo=java&logoColor=white"/>
+</span></div>
+
+<div><span>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+</span></div>
+
+<div><span>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</span></div>
+
+<div><span>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-48B0F1?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+</span></div>
+
+<div><span>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+</span></div>
 
 
 -----
