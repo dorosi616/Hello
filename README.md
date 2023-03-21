@@ -7,7 +7,7 @@
 -----
 
 
-## 프로젝트 소개
+### Representative Study
 <br/>
 
 1. '코로나19' 관련 뉴스 요약본으로 토픽 모델링
@@ -36,3 +36,26 @@
     * 기술 스택 : 프레임 전처리 - grayscale, cropping / 그래프 전처리 - peak extraction, smoothing / 데이터 추출 -  
     * 연구 결과 : 초음파 영상만을 통해 혈류의 특징 파악, 다른 신체 부위의 혈류 속도 데이터에 비해 우울 장애를 겪는 환자를 분류하는 데에 75%의 가장 높은 정확도를 얻음
    
+<br/>
+
+-----
+### Repository Link
+</br>
+
+- [대뇌부 초음파 영상을 활용한 우울증 환자 분류] </br>
+https://github.com/dorosi616/Ultrasound-Image-Pre-processing
+
+- [CCTV를 활용한 실시간 주차 공간 정보 제공 서비스]</br>
+https://github.com/dorosi616/Parking-Here
+
+- [영상 데이터를 활용한 코미디 프로그램 코너 분류]</br>
+https://github.com/dorosi616/Comedy-Program-Classification
+
+- [이미지 데이터를 활용한 헷갈리는 분리배출 방법 분류분석]</br>
+https://github.com/dorosi616/Separate-Discharge-Classification
+
+- ['코로나19' 관련 뉴스 요약본 토픽 모델링]</br>
+https://github.com/dorosi616/COVID-19-News-Topic-Modeling
+
+- [IMDB 리뷰 긍정/부정 감성분류] </br>
+https://github.com/dorosi616/Sentiment-Analysis-of-IMDB-Movie-Reviews
